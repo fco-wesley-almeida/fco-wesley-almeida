@@ -16,10 +16,6 @@ I have a strong background in web system architecture, development, and integrat
 
 - **Customer Support**: Skilled at providing exceptional customer support, troubleshooting, and knowledge transfer to ensure client satisfaction.
 
-## My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fco-wesley-almeida&show_icons=true&theme=radical)
-
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fco-wesley-almeida&layout=compact&theme=radical)
